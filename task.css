@@ -1,0 +1,262 @@
+*{margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;text-decoration: none;
+    scroll-behavior: smooth;}
+    
+
+
+    .section1 img{
+        height: 390px;}
+    .nav{display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+        margin-top: 20px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 950px;}
+    .nav img{width: 50px; 
+        height: 30px;
+        position: absolute;
+        top: 0px;
+        left: 40px;}
+    .nav .imgg{position: absolute;
+    top: 0px;
+    left: 570px;
+    height: 35px;
+    width: 100px;}
+    .nav .Ho{font-size: 11px;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 100px;}
+    .Ho p{padding: 0px 10px;
+    transition: all 0s;}
+    .Login{position: absolute;
+    top: 25px;
+    left: 620px;
+    font-size: 12px;} 
+    .Ho p:hover{color: #7a3d8a;
+    text-decoration: 0.5px underline;}
+    .you{position: absolute;
+    top: 50px;
+    left: 50px;}
+    .lan{position: absolute;
+        top: -19px;
+        left: 330px;
+        width:300px;}
+    .yy{color: #637279;
+        position: absolute;
+        top:95px;
+        left: 0px;
+        width: 330px;
+        font-size: 32px} 
+    .yy span{color: #7a3d8a;}   
+   .yyy{font-size: 17.5px;
+        width: 324px;
+        height: 32px;
+        position: absolute;
+        top: 190px;
+        left: 0px;
+        color: #637279;}
+    .u{width: 650px;
+        position: absolute;
+        top: 218px;
+        left: -160px;
+        z-index: 1;}   
+    .man{z-index: 2;
+        position: absolute;
+        top: -20px;
+        left: 405px;
+        width: 125px;}
+    .clo{z-index: 3;
+        position: absolute;
+        top: 170px;
+        left: 385px;
+        width: 190px;}
+    .line1{position: absolute;
+        top: 388px;
+        left: 55px;
+        width: 130px;}    
+    .line2{position: absolute;
+        top: 495px;
+        left: 270px;
+        z-index: 6;
+        width: 130px;}  
+    .line{position: absolute;
+        top: 335px;
+        left: 95px;
+        z-index: 5;
+        width: 480px;}
+    .l{position: absolute;
+        top: 495px;
+        left: 55px;
+        width: 180px;
+        font-size: 16px;
+        color: #637279;}
+    .li{position: absolute;
+        top: 518px;
+        left: 10px;
+        width: 320px;
+        font-size: 12px;
+        color: #b9b9b9;}
+    .ll{position: absolute;
+        top: 605px;
+        left: 265px;
+        width: 180px;
+        font-size: 16px;
+        color: #637279;}
+    .lii{position: absolute;
+        top: 628px;
+        left: 210px;
+        width: 320px;
+        font-size: 12px;
+        color: #b9b9b9;}
+    .line3{position: absolute;
+        top: 706px;
+        left: 410px;
+        z-index: 6;
+        width: 130px;}  
+    .lll{position: absolute;
+        top: 785px;
+        left: 445px;
+        width: 180px;
+        font-size: 16px;
+        color: #637279;}
+    .liii{position: absolute;
+        top: 808px;
+        left: 360px;
+        width: 320px;
+        font-size: 12px;
+        color: #b9b9b9;}  
+    .p{width:200px;
+        position: absolute;
+        top: 708px;
+        left:-10px;}
+    .o{width:200px;
+        position: absolute;
+        top: 750px;
+        color: white;
+        left:25px;
+        z-index: 9;
+        font-size: 15px;}
+    .oo{width:200px;
+        position: absolute;
+        top: 770px;
+        left:25px;
+        z-index: 10;
+        color: white;
+        font-size: 30px;}
+    .f1{width: 150px;
+        position: absolute;
+        top: 1100px;
+        left: 480px;}
+    .f3{width: 150px;
+        position: absolute;
+        top: 1100px;
+        left: -20px;}
+    .f2{width: 300px;
+        position: absolute;
+        top: 1000px;
+        left: 150px;}
+    .h1{font-size: 14px;
+        color: #5f5f5f;
+        position: absolute;
+        top: 1280px;
+        font-weight: bold;
+        left: 246px; 
+        width: 500px;}
+    .h2{color: #b9b9b9;
+        position: absolute;
+        top: 1305px;
+        left: 255px;
+        font-size: 11px;}   
+    .j{position: absolute;
+        top: 1310px;
+        left: -85px;
+        z-index: 11;
+        width: 810px;} 
+    .j6{position: absolute;
+        top: 1490px;
+        left: 299px;
+        z-index: 12;
+        width: 300px;}
+    .j4{position: absolute;
+        top: 1595px;
+        left: 25px;
+        z-index: 12;
+        width: 18px}
+    .j5{position: absolute;
+        top: 1595px;
+        left: 50px;
+        z-index: 12;
+        width: 20px}   
+    .j7{position: absolute;
+        top: 1595px;
+        left: -3px;
+        z-index: 12;
+        width: 20p}     
+    .j3{position: absolute;
+        top: 1540px;
+        left: -3px;
+        z-index: 12;
+        width: 80px}       
+    .j2{position: absolute;
+        top: 1540px;
+        left: 93px;
+        z-index: 12;
+        width: 80px}  
+    .j10{position: absolute;
+        top: 1546px;
+        left: 6px;
+        z-index: 12;
+        width: 15px}  
+    .j11{position: absolute;
+        top: 1546px;
+        left: 105px;
+        z-index: 12;
+        width: 17px}    
+    .u2{position: absolute;
+        top: 1544px;
+        left: 125px;
+        z-index: 12;
+        width: 50px;
+        font-size: 6.5px;}  
+    .u5{position: absolute;
+        top: 1544px;
+        left: 24px;
+        z-index: 12;
+        width: 50px;
+        font-size: 6.5px;}  
+    .u4{position: absolute;
+        top: 1554px;
+        left: 24px;
+        z-index: 12;
+        width: 50px;
+        color: #7a3d8a;
+        font-size: 10px;}
+    .u3{position: absolute;
+        top: 1554px;
+        left: 124px;
+        z-index: 12;
+        width: 50px;
+        color: #7a3d8a;
+        font-size: 10px;}
+    .Hoo{display: flex;
+        z-index: 15;
+        color: white;
+        position: absolute;
+        justify-content: space-around;
+        top: 1635px;
+        width: 180px;}
+    .Hoo p{font-size: 8px;}
+       
+    
+
+
+    
+
+
+
+
